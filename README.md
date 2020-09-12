@@ -26,3 +26,7 @@ I have used `qiskit` library to solve the Task 3.
 
 * Created `H`, `X`, `Y`, `Z`, `CNOT` gate using `RX`, `RZ`, `CZ`.
 * Reduced the overhead by `Basic Swap`.
+
+## Note
+
+If you want to evaluate with only one task, please go ahead with **Task2**.
